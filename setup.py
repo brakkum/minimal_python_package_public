@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='minimal-public',
+    name='minimal_public',
     version='0.1',
     description='the most minimal package possible',
     author='brakkum',
