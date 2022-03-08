@@ -6,6 +6,6 @@ setup(
     description='the most minimal package possible',
     author='brakkum',
     license='MIT',
-    packages=['minimal'],
+    packages=['minimalpublic'],
     zip_safe=False,
 )
