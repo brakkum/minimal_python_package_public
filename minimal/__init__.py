@@ -1,0 +1,3 @@
+
+def minimal():
+    return "minimal"
